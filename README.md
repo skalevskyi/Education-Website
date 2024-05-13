@@ -1,4 +1,4 @@
-# Education-Website 
+# Education-Website
 
 
 # Screenshot
